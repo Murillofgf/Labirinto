@@ -3,4 +3,4 @@
 Jogo desenvolvido para a materia de Inteligencia Artificial
 
 
-## 📦 Desenvolvimento
+# Projeto Readme ainda em construção
