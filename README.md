@@ -1,7 +1,11 @@
-# Labirinto
+# Labirinto utilizando PyGame
 
 Jogo desenvolvido para a materia de Inteligencia Artificial
 
 
-### Projeto Readme ainda em construção
+
 ---
+
+```
+pip install pygame
+```
