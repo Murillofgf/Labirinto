@@ -11,5 +11,5 @@ O labirinto foi programado utilizando a linguagem de Python juntamente com a bli
 
 Para a utilização do jogo é necessario a instalação do Python 
 ```
-//pip install python
+pip install python
 ```
