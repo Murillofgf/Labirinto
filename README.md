@@ -12,21 +12,18 @@ O labirinto foi programado utilizando a linguagem de Python juntamente com a bli
 ### 📋 Pré-requisitos
 
 Para a utilização do jogo é necessario a instalação do Python
-```
-pip install python
-```
-É necessario a instalação do pygame tambem
+
+[Python](https://www.python.org/downloads/)
+
+Para a execução do programa é necessario a instalação da biblioteca do PyGame que pode ser instalado colocando esse comando no cmd
 
 ```
 pip install pygame
 ```
-Outra forma de instalar o python é fazer o download diretamente do site
-
-[Python](https://www.python.org/downloads/)
 
 ## ⚙️ Executando os testes
  
- Foi utilizado a IDE do PyCharm 
+Foi utilizado a IDE do PyCharm 
 
 [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
 
