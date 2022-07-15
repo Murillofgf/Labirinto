@@ -20,3 +20,14 @@ pip install python
 ```
 pip install pygame
 ```
+Outra forma de instalar o python é fazer o download diretamente do site
+
+[Python](https://www.python.org/downloads/)
+
+## ⚙️ Executando os testes
+ 
+ Foi utilizado a IDE do PyCharm 
+
+[PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
+
+Dentro do pycharm tambem é possivel a instalação da biblioteca do pygame
