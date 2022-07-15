@@ -9,7 +9,14 @@ Nosso projeto se trata sobre a construção de um labirinto utilizando tecnicas 
 
 O labirinto foi programado utilizando a linguagem de Python juntamente com a bliblioteca do Pygame.
 
-Para a utilização do jogo é necessario a instalação do Python 
+### 📋 Pré-requisitos
+
+Para a utilização do jogo é necessario a instalação do Python
 ```
 pip install python
+```
+É necessario a instalação do pygame tambem
+
+```
+pip install pygame
 ```
